@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 475bcc7e57f7dd148b62c9ebece0e9a5, type: 3}
+  m_Name: Dormitorio2
+  m_EditorClassIdentifier: 
+  ItemName: Modelo 2
+  ItemImage: {fileID: 21300000, guid: 9b9d8bdfd7458674292a0c1114f42446, type: 3}
+  ItemDescription: Cama juvenil
+  Item3DModel: {fileID: 751460872045957157, guid: a7395832343cc814fa91e12955695e66, type: 3}
